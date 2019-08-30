@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: External Events for The Event Organizer
- * Plugin URI:  https://www.wpcodelabs.com/
- * Description: Extend The Event Organizer to include External Events
+ * Plugin Name: External Events for Event Organizer
+ * Plugin URI:  https://github.com/gaiusinvictus/EO-External-Event
+ * Description: Extend The Event Organizer to include External Events, requires Event Organizer plugin
  * Version:     1.0.0
  * Author:      WP Code Labs
  * Author URI:  https://www.wpcodelabs.com/
